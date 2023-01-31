@@ -1,4 +1,4 @@
-"# nonstopioproject" product application
+"# nonstopioproject" djangoproject application
 
 ## Setup
 
